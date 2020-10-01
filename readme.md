@@ -1,5 +1,5 @@
 # trackCorona
-A simple website to get updated data about COVID-19 pandemic. [**Here**](https://ganeshchk.github.io/) you can find the most upto date numbers.
+A simple website to get updated data about COVID-19 pandemic. [**Here**](https://ganeshchk.github.io/corona) you can find the most upto date numbers.
 
 ## Data Sources
 The API used is [**Novel COVID API**](https://corona.lmao.ninja/).
